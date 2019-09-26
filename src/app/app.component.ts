@@ -8,5 +8,5 @@ import {  } from '@angular\core';
 export class AppComponent  {
   name = 'Angular';
   test: string;
-  lklfdfd
+  lklfdfd;
 }
